@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/streams.schlagerplanetradio.com\/hf\/mp3-192\/streams.schlagerplanetradio.com"
+                 "value":"https:\/\/stream.radiobrocken.de\/fete\/mp3-128\/direktlinkHP\/"
                 }],
          "type":"tilelayer",
          "visible":true,
