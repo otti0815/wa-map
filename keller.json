@@ -271,7 +271,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"etage.json"
+                 "value":"main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -328,7 +328,7 @@
                  "value":false
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -340,7 +340,7 @@
          "name":"Objects",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -352,7 +352,7 @@
          "name":"Objects2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
