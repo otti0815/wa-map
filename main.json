@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/159.69.21.84:8000\/radio.mp3"
+                 "value":"https:\/\/azuracast.bierjunge.wtf:8000\/radio.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
