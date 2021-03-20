@@ -325,7 +325,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"etage.json"
+                 "value":"biergarten.json"
                 }],
          "type":"tilelayer",
          "visible":true,
